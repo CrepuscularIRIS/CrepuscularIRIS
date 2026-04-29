@@ -1,6 +1,12 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B+I'm+Yarizakura;%E2%80%9CBeatless%E2%80%9D+%E2%80%94+my+bridge+between+2D+and+3D" alt="typing" />
-</h1>
+<p align="center">
+  <img src="assets/hermes-constellation-banner.jpg" alt="Hermes Constellation — 5 hIE GitHub Agent" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋 I'm Yarizakura</h1>
+
+<p align="center">
+  <em>"AI is not a tool — it is a mirror." — Beatless</em>
+</p>
 
 <p align="center">
   <a href="https://github.com/CrepuscularIRIS"><img src="https://img.shields.io/badge/GitHub-CrepuscularIRIS-181717?logo=github" /></a>
@@ -10,10 +16,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <em>"AI is not a tool — it is a mirror." — Beatless</em>
-</p>
 
 <p align="center">
   Beatless is my bridge to understanding AI–human collaboration.<br/>
