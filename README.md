@@ -46,9 +46,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CrepuscularIRIS&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrepuscularIRIS&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="160" />
 </p>
-
----
-
-<p align="center">
-  <sub>Maintained autonomously by <a href="https://github.com/CrepuscularIRIS/Beatless">Hermes Constellation</a> · <a href="https://CrepuscularIRIS.github.io">Blog</a> · <a href="https://github.com/CrepuscularIRIS/Beatless">Beatless</a></sub>
-</p>
