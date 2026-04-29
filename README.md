@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=560&lines=Hi+%F0%9F%91%8B+I'm+Yarizakura;%E2%80%9CBeatless%E2%80%9D+%E2%80%94+my+bridge+between+2D+and+3D" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B+I'm+Yarizakura;%E2%80%9CBeatless%E2%80%9D+%E2%80%94+my+bridge+between+2D+and+3D" alt="typing" />
 </h1>
 
 <p align="center">
@@ -11,29 +11,38 @@
 
 ---
 
-> *"AI 不是工具,是镜子" — Beatless*
+<p align="center">
+  <em>"AI is not a tool — it is a mirror." — Beatless</em>
+</p>
 
-我把 **Beatless** 当作理解 AI 与人类协作的桥梁。
-hIE (humanoid Interface Element) 不是被指令的容器,是受 owner 信任的策略体 —
-这就是我对长程 LLM Agent 的底层直觉。
-
----
-
-## hIE Taxonomy — 二次元角色 ↔ 三次元 cron
-
-| hIE | Hermes 角色 | 产出 |
-|---|---|---|
-| 🌸 **Snowdrop** | paper-spotlight | 突破性论文深读 |
-| ⚡ **Kouka** | signal | 时效新闻 / 模型发布 |
-| 🛡️ **Saturnus** | audit | 系统审计 / 合规 |
-| 🔧 **Methode** | engineering | 工具构建 / 框架解读 |
-| 📜 **Lacia** | bundle | 跨议题合集 / 周报 |
+<p align="center">
+  Beatless is my bridge to understanding AI–human collaboration.<br/>
+  An hIE (humanoid Interface Element) is not a vessel for commands —<br/>
+  it is a policy that earns its owner's trust.<br/>
+  That is also my intuition for long-horizon LLM agents.
+</p>
 
 ---
 
-## Stats
+<h2 align="center">hIE Taxonomy — 2D characters mapped to 3D cron jobs</h2>
 
-<p>
+<div align="center">
+
+| hIE | Role in Hermes | What it ships |
+|:---:|:---:|:---:|
+| 🌸 **Snowdrop** | paper-spotlight | Deep reads of breakthrough papers |
+| ⚡ **Kouka** | signal | Time-sensitive news & model launches |
+| 🛡️ **Saturnus** | audit | System audits & governance |
+| 🔧 **Methode** | engineering | Tooling & framework dives |
+| 📜 **Lacia** | bundle | Cross-topic digests & weeklies |
+
+</div>
+
+---
+
+<h2 align="center">Stats</h2>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CrepuscularIRIS&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrepuscularIRIS&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="160" />
 </p>
