@@ -43,6 +43,9 @@
 <h2 align="center">Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CrepuscularIRIS&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrepuscularIRIS&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="160" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CrepuscularIRIS&theme=tokyo-night&hide_border=true&area=true&area_color=26d9c7&color=26d9c7&line=26d9c7&point=26d9c7" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CrepuscularIRIS&label=visitors&color=26d9c7&style=flat" />
 </p>
