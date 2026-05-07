@@ -47,5 +47,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CrepuscularIRIS&label=visitors&color=26d9c7&style=flat&start_value=350" />
+  <img src="https://komarev.com/ghpvc/?username=CrepuscularIRIS&label=visitors&color=26d9c7&style=flat" />
 </p>
